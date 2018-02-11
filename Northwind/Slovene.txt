@@ -1,0 +1,29 @@
+# Reference:
+10.1017/S0025100300005211
+
+# Language:
+Slovene
+
+#ISO Code:
+slv
+
+# Consonant Inventory:
+p, b, t, d, k, g, ts, tʃ, dʒ, m, n(n, ŋ, ɱ, nː),
+ ɾ, f, s, z, ʃ, ʒ, x, ʋ(ʋ, u, w, ʍ), j, l
+
+# Vowel Inventory:
+i(i, iː), e(e, eː), ɛ(ɛ, ɛː), ə(ə, əː),
+ a(a, aː), o(o, oː), ɔ(ɔ, ɔː), u(u, uː)
+
+# Transcript:
+ˈseːʋəɾni ˈʋeːtəɾ in ˈsoːntsɛ sta sɛ pɾɛˈpiːɾala ǀ kaˈteːɾi ɔd ˈnjiːju jɛ mɔtʃˈneiʃi ǀ
+kɔ jɛ ˈmiːmɔ pɾiˈʃɛu [ɔˈpoːtnik ǀ zaˈʋiːt u ˈtɔːpəu ˈpəɾʋɛmu uˈspeːla sta sɛ
+ǀ da bo ʋɛlˈjau za mɔtʃˈneiʃɛga ˈtiːsti ǀ ki mu bo ˈpəːɾʋɛmu uˈspeːlɔ ǀ da bo
+pɔˈpoːtnik ˈsleːkəu sʋoi ˈplaːʃt. ǁ ˈseːʋəɾni ˈʋeːtəɾ jɛ zaˈpiːxau z uˈsɔː mɔˈtʃjoː
+ǁ toda ˈboːl kɔ jɛ ˈpiːxau ǀ ˈboːl təˈsnːo jɛ pɔˈpoːtnik ǀ ɔˈʋiːjau sʋoi ˈplaːʃtʃ
+ɔkoli ˈsɛːbɛ. ǁ ˈkɔːntʃnɔ ǀ jɛ ˈseːʋəɾni ˈʋeːtəɾ pɔˈpuːstiu. ǁ naˈtoː jɛ ˈsoːntsɛ
+tɔˈploː pɔsiˈjaːlɔ ǀ in pɔˈpoːtnik jɛ taˈkoi ˈsleːkəu sʋoi ˈplaːʃtʃ. ǁ in taˈkoː jɛ 
+ˈseːʋəɾni ˈʋeːtəɾ ˈmoːɾau pɾiˈznaːti ǀ da jɛ ˈsoːntsɛ mɔˈtʃneiʃɛ ɔdˈnjɛːga. ǁ
+
+# Notes:
+Homorganic nasals are presented as allophones of /n/.

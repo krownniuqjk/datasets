@@ -1,0 +1,33 @@
+# Reference:
+10.1017/S0025100300005090
+
+# Language:
+Hungarian
+
+#ISO Code:
+hun
+
+# Consonant Inventory:
+p, b, t, d, k, g, ts, dz, tʃ, dʒ, cç, ɟj, m(m, ɱ), n, ɲ,
+ f, v, s, z, ʃ, ʒ, h(h, ɦ, ç, x), r, j, l,
+ pː, bː, tː, dː, kː, gː, tsː, dzː, tʃː, dʒː, cçː, ɟjː, 
+ mː, nː, ɲː, fː, vː, sː, zː, ʃː, ʒː, hː, rː, jː, lː
+
+# Vowel Inventory:
+iː, i(i, iˑ), yː, y, øː, ø(ø, øˑ), eː, eˑ, ɛ(ɛ, ɛ̃), uː, u, oː, oˑ, o(o, õ),
+ɑ(ɑ, ɑ̃ˑ), aː(aː, ãː, aˑ), ɑː, ɛː
+
+# Transcript:
+ˌɛtsːɛr ɑz ˈeːsɑki ˈseːl eˑʃ ɑ ˌnɑp ˈvɛtɛlkɛtːɛk hoɟʝ ˈmɛjikyk ɑz ˈɛrøːʃɛbː ǁ ˈeˑpː
+ɑːrɑ jøtː ɛɟʝ ˈvãːdor ˌvɑʃtɑk ˌkøpøɲɛgbɛ burkoloˑdzvɑ ǁ ɑz ˌeːsɑki ˌseːl eˑʃ ɑ
+ˌnɑp ˈɲombɑ̃ˑ ˈmɛgɛɟʝːɛstɛk hoɟʝ ˈɑz lɛsː ɑ ˈɟʝøːstɛʃ ɑki ˈɦɑmɑrɑb ˌraːbiˑrjɑ ɑ
+ˌvãːdort hoɟʝ ˈlɛvɛɟʝɛ ɑ ˈkøpøɲɛgeˑt ǁ ɑkːɔr ɑz ˌeːsɑki ˌseˑl ˌɛːkɛzdɛt ˈʃyvøltɛni
+ˌɑɦotʃːɑk ˈbiːrt ǁ dɛ ɑ ˌvãːdor ˈɑnːaˑl ˈsoroʃɑbːɑɱ  võtɑ ˌmɑgɑ køreˑ ɑ ˌkøpɛɲt
+ˌmineˑl ˈɛrøˑʃɛbːeɱ ˌfujt ǁ ˌiːɟʝ ɑstaˑn ɑz ˌeˑsɑki seˑl ˌɛl iʃ ˌvɛsitɛtːɛ ɑ ˌvɛrʃɛɲt ǁ
+ɑ ˌnɑp mɛg ˌɛːkɛstɛ ˈõtɑni ˈtyːzøˑ ˌʃugɑrɑit ˌmirɛ ɑ ˌvãːdɔr ˈɛtsːɛribɛ̃ ˈkibujt ɑ
+ˌkøpøɲɛgeˑbøl ǁ ɑz ˌeːsɑki ˌseːl ˈkeˑɲtɛlɛ̃ vot ˈmɛgɑdni hoɟʝ ˌbizoɲ ɑ ˈnɑp ɑz
+ˌɛrøːʃɛbː
+
+# Notes: 
+No discussion is made of half-long vowels, and I have assigned them as allophones 
+to their short counterpart.

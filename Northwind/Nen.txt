@@ -1,0 +1,39 @@
+# Reference:
+Not yet published at time of reading
+
+# Language:
+Nen
+
+#ISO Code:
+nqn
+
+# Consonant Inventory:
+p, b, t̪, d, k, g, kp, gb, mb, ⁿd, 
+ŋg, ɴgb(ɴgb, ŋgb, mgb, ŋmgb), dʒ(dʒ, dz, z), ⁿdʒ(ⁿdʒ, ⁿdz, ⁿz), 
+m, n(n, nː), ɲ, r, s, h, j, w, l
+
+# Vowel Inventory:
+i, e, æ, a, o(o, ŏ), u, ẽ, ã, ɪ, ə(ə, ɐ)
+
+
+# Transcript:
+ˈkɪrˈbɪrba ˈkiwil a ˈkesær
+kɪrˈbɪrba ˈkiwil a ˈkesær bæ dʒi ˈgujɪt ˈebe ˈmujaba pip bæ jəm.
+æmb ær ˈdənənːdʒəron ˈombte ˈselemiŋgama emˈbajsməne.
+dʒi ˈsuri jɪˈmabem ˈdene eˈtandʒɪt ˈebe ˈmujaba pip bæ jəm,
+məˈnegta jɪˈna ˈæræm ebe emˈbajsməne ˈselemiba dəˈnənːdʒəron
+ˈselemi geæ dəpˈtrærŋga de bæ jɪˈpalɪs ˈgæmteŋga ˈebe ˈmujaba bæ jəm
+jɪˈna ˈkɪrˈbɪrba ˈkiwil ˈmuyabas dəˈnapete jɪˈta ˈmujaba pip ˈdapete
+wənˈde jɪˈna ær ˈebe ˈdənənːdʒəron ˈselemiŋgama kor ˈmersrajs
+gemˈbate jɪˈta jɪˈna ˈkɪrˈbɪrba ˈkiwil gəs ˈdapete ˈmujabas
+e ˈdene ˈmujapnær ˈnæmtewe wənˈde ˈakpa ˈkesær ˈombtebas næˈtrɛŋgbwe,
+jɪˈnamənewanəs jɪˈna ˈjɪlsær ˈæræm ˈselemi dəpˈtərne.
+jɪˈna dəbəˈnan jɪˈna ˈkɪrˈbɪrba ˈkiwil de ˈyæbæretawend "bəm ˈweiˈwei dʒi kŏˈwabta"
+ˈdene "ˈkesær, bəm ˈmujaba pip nəm."
+
+# Notes:
+ Prenasalised consonants in the paper are represented by a superscript nasal followed by the oral stop.
+ It is not possible for me to recreate this other than the alveolar nasal.
+ The alveolar nasal is marked long when it is a distinct phoneme and precedes 
+ the affricate /dʒ/, in contrast to the prenasalised affricate /ndʒ/.
+ The author does not mention short [ŏ] in the paper.  It has been added as an allophone of /o/.

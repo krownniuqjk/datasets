@@ -1,0 +1,29 @@
+# Reference:
+10.1017/S0025100300005223
+
+# Language:
+European Portuguese
+
+#ISO Code:
+
+
+# Consonant Inventory:
+p, b(b, β), t, d(d, ð, d̥), k, g(g, ɣ), m, n, ɲ,
+f, v, s, z(z, z̥), ʃ(ʃ, ʒ, z), ʒ, ʁ(ʁ, ʁ̥), ɾ, l, ʎ
+
+# Vowel Inventory:
+i, e, ɛ, a, ɔ, o, u(u, u̯), ɐ, ɯ(ɯ, ɯ̥̃), ĩ, ẽ, ɐ̃, õ, ũ, 
+ɛi, ai, ɐi, ɔi, oi, ui, iu, eu, ɛu, au, ɐ̃i, õi, ũi, ɐ̃u
+
+# Transcript:
+u ↑ˈvẽtu ˈnɔɾt ↑i u sɔl d̥ʃkuˈtiˌɐ̃u ↑ku̯al duʒ doiz ↑ˈɛɾɔ maiʃ ˩˨fɔɾtɯ ǀ ↑ˈku̯ɐ̃du
+susɯˈdeu [ɐˈsaɾ ũ viɐ↑ˈʒɐ̃tɯ ɯ̥̃↑ˈvolt numɐ ˥˩kapɐ ǁ au ˩˨velu ǀ ˈpõi↑ˌɐ̃is
+diɐ↓ˈkoɾdu ɐ̃i ˈkomu ɐ↑ˈkel kɯ pɾi↑ˈmɐiɾu kõsˈgis ɔbɾiˈgaɾ u viɐˈʒɐ̃tɯ ɐ tiˈɾaɾ
+ɐ ˩˨kapɐ ǀ sɾiɐ kõsidɯ↑ˈɾadu u maiʃ ˥˩fɔɾt ǁ u ↑ˈvẽtu ˈnɔɾtɯ kumɯˈso ɐ
+suˈpɾaɾ kõ ˈmũitɐ ˩˨fuɾiɐ ǀ mɐʃ ↑ˈku̯ɐ̃tu maiʃ su˩˨pɾavɐ ǀ maiz ↑u sɔl bɾriˈʎo ẽtɐ̃u kõ
+ˈtodu ʃplẽ˩˨doɾ ǀ i ↑imɯdiatɐˈmẽt u viɐ↑ˈʒɐ̃tɯ tiˈɾo ɐ ˥˩kapɐ ǁ u ↑ˈvẽtu ˈnɔɾtɯ
+tev ɐˈsĩ dɯ ʁ̥kuɲɯ↑ˈseɾ ɐ supɯɾiuɾiˈdad ↑du ˥˩sɔl ǁ
+
+# Notes:
+Devoicing of sounds is not discussed in the paper.  
+I have placed devoiced sounds as allophones of the voiced phoneme. 

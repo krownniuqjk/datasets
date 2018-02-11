@@ -1,0 +1,27 @@
+# Reference:
+10.1017/S00251003001397
+
+# Language:
+Tyneside English
+
+#ISO Code:
+
+# Consonant Inventory:
+p(p, pʰ, ʰp, ʔp), b(b, bː), t(t, tʰ, ʰt, t̬, ʰtʰ, ʔt), d(d, d̪, ɾ̞, d̰), k(k, kʰ, ʰk, ʔk), g, ʔ, tʃ, dʒ,
+ m, n(n, n̩, ɲ, n̪), ŋ, f, v(v, v̥), θ, ð(ð, ð̥), s(s, sː), z(z, z̥), ʃ, ʒ, ɦ, ɹ(ɹ, ɹ̥, ʋ̥), j, w(w, ʋ, ʍ), l(l, l̥, l̰)
+
+# Vowel Inventory:
+i(i, iː, iˑ), ɪ(ɪ, ɪ̥, ɪ̹, ɪ̰, ɪ̃, ɪ̞), u(u, ʉ̰), ʊ(ʊ, ʊ̘, ʊ̃, ʌ̆), e(e, eː), ø(ø, ø̙), ɛ(ɛ, ɛː, ɛ̙, ɛ̙ˑ, ɛ̝), ə(ə, ə̝, ə̃, ə̰, ə̰),
+ a, ɒ(ɒ, ɒː, ɒ̃, ɒ̰, ɒ̃ː, ʌ), ɔ(ɔ, ɔː, ɔ̝ː, ɔˑ), o(o, o̞), ɑː, ɐ̰, ai, iɐ, æu, uɐ, oe
+
+# Transcript:
+ðə̝ ˈnɔːθ ˈwɪnd ə̃ ðə ˈsʊ̘m ə dɪsˈpjʉ̰ʔn̩ ˈwɪtʃ wəz̥ ə ˈstɹɒ̃ŋgɛ̙ wɛn ə ˈtɹ̥avlɛ̙ kʰeːm əlɒŋ
+ˈʋaʰpt̬ mə ˈwɔm ˈkʰoʰtʰ ðeɪˈgʋeid ðaʔ ðə ˈwɒn hʊ ˈfɛ̙ˑsəkˈsiˑdɪd n̩ ˈmɛ̝ʔŋ ðə ˈtɹ̥avlə
+ˈtʰɛ̝ikɪɪ̥z̥ ˈkʰoʊʔt ɒ̰f ʃɪ̹bːi kʰɒnˈsɪdə ˈsːtɹɒŋgə d̪ə̃ɲ ˈðɛ̙ ðɛn̪ ðə ˈnɔːθ wɪm ˈblɪu ɪz̥ ˈhɑːd
+ɪzi ˈkʰø̙ɾ̞ bɪ̰d̪ ə̰ ˈmɒ̃ː ɦi ˈblɪu ðə ˈmɒ̃ː ˈkl̥ɔ̝ːli dɪd̪ ə ˈtɹ̥avlɐ ˈfoəld ɪz ˈkʰɔˑd̰ə̰ˈʋaʊ̃nd̥ hɪ̃m
+ənd ɪʔ ˈl̰as θ ˈnɔ̥ːθ ˈwɪ̞ŋ ˈgɪəv ʊp d̪i əˈtʰɛmt ˈd̪ɛn ɪ ˈsʊn ˈʃʌ̆n ɛʊʔ ˈwɔːmli nə̃ˈmiːdzəli ðə
+ˈtʋ̥avlʌ ˈtʰʊk’ ɑf ɪ̥s ˈkʰɔ̝ːʰtʰ n̩ so̞ ðə ˈnɔːθ ˈwɪn wəz əˈblaɛsː ɐ̰ʔ ðə ˈsʊm ʊz ð
+ˈstɹ̥ɒ̃ŋgɒv̥ ð̥ə ˈtʰɪuʍ
+
+# Notes:
+Most allophones and phonetic processes discussed within article.  

@@ -1,0 +1,27 @@
+# Reference:
+10.1017/S0025100303001373
+
+# Language:
+Castilian Spanish
+
+#ISO Code:
+
+# Consonant Inventory:
+p, b(b, β̞), t, d(d, ð̞), k, g(g, ɣ̞), tʃ, ɟʝ, m, n(n, ɱ, n̟, n̪, nʲ, ŋ, ɴ), ɲ, ɾ, f, θ(θ, θ̬), s, x,
+l (l, l̟, l̪, lʲ), ʎ
+
+# Vowel Inventory:
+i(i, i̯), e(e, e̯, ẽ), a(a, a̯, ã), o(o, o̯), u(u, u̯)
+
+# Transcript:
+ el ˈβjen̪to ˈnoɾte ʝ elˈsol poɾˈfjaβan soβɾe ˈkwal̪ ˈdeʎoˈseɾa e̯lˈmasˈfweɾte ǀ kwan̪do̯
+ aθeɾˈto a̯ paˈsaɾ um bjaˈxeɾo̯ emˈbwel̪to̯ eˈn ãnʲtʃa ˈkapa ǁ kombiˈnjeɾon ẽŋ ke kje 
+ ˈn ãn̪tez loˈɣɾaɾa o̯βliˈɣaɾ al βjaˈxeɾo̯ a kiˈtaɾse la ˈkapa ǀ seˈɾia konsiðeˈɾaðo ˈmas
+ poðeˈroso ǁ el ˈβjen̪to ˈnoɾte soˈplo koŋ gɾaɱ ˈfuɾja ǀ ˈpeɾo kwan̪to ˈma soˈplaβa ǀ
+ ˈma se̯ areβuˈxaβa e̯n su ˈkapa e̯l βjaˈxeɾo ǁ poɾ ˈfin ǀ el ˈβjen̪to ˈnoˈte aβan̪doˈno la
+ e̯mˈpɾesa ǁ ẽn̪ˈton̟θez βɾiˈʎo e̯l ˈsol kon aɾˈðoɾ ǀ e i̯ⁿmeˌðjataˈmẽn̯te se ðespoˈχo ðe 
+ su ˈkapa e̯l βɾaˈxeɾo ǁ poɾ lo ke l ˈβjen̪to ˈnoɾte ˈuβo ðe rekonoˈθeɾ la supeɾjoɾiˈða ðel ˈsol 
+ 
+ # Notes:
+ All the consonantal allophones are discussed in the article.  The article mentions that vowels may be nasalised.  
+ Otherwise I have assigned vowels with diacritics in the transcription as allophones. 

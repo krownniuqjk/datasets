@@ -1,0 +1,29 @@
+# Reference:
+10.1017/S002510031100051X
+
+# Language:
+Mono Lake Northern Paiute
+
+#ISO Code:
+
+
+# Consonant Inventory:
+p(p, pʰ), b(b, β), bː(bː, bʰː), t(t, tʰ), d(d, ɾ), dː(dː, dʰː), k(k, kʰ, qʰ), 
+g, gː(gː, ɢː), kʷ, gʷ(gʷ, gʷʰ), gʷː(gʷː, gʷʰː), ʔ, ts, dz(dz, z, z̥), dːz, m, mː, 
+n, nː, ɕ(ɕ, ɕʲ), ɕː, h, j(j, j̥), w
+
+# Vowel Inventory:
+i(i, i̥), iː, ɨ, ɨː, e(e, ai̯, ei̯, ɛi), a, aː, ɔ, ɔː, u(u, u̥), uː
+
+# Transcript:
+jɨˈβanɔ nɨˈmːi ɕɨːɢːanːa a=naˈqʰaβɔɾɔmaneqʰaːɕi. ɕuːmi ɕɨːgːaβɔɾɔnːa
+ˈjeiɕi ˈɔːpidʰːunːa. ˈjeiɕi ɾaˈmːi ɔˈpʰiwɨnɨpʰɨtʰuhu. ˈɕaːʔa ɔˈqʰa
+maˈmagʷʰːɨuɕi ˈjeiɕi nɨˈmːi ɔˈpʰɔmaɾabuʔi. ˈj̥eiɕi̥ tʰuˈaz̥u̥ jaˈdːatʰu.
+tʰuˈaz̥u̥ wɔˈnɔtʰu. uˈniqʰa nɨˈmːi maˈɾaʔe ˈɕaːʔa ɔˈpʰiwɨmːa ˈɕɨːβi
+haˈnimagʷːɨɕi̥. ˈmihu̥=ɕabʰːɨ ˈjeiɕi̥ ˈɨːβigʷʰetʰu̥ waˈha.
+
+# Notes:
+Geminate consonants and long vowels shown as double letter symbol in original paper.
+The transcription is of a text entitled "Gathering willow and making baskets".
+Sounds [β], [ɾ], [ɢː], [j̥], [i̥]   are not mentioned in the paper, but are allocated as allophones, based on 
+comparison with the phonemic transcription.

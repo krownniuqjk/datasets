@@ -1,0 +1,45 @@
+# Reference:
+10.1017/S00251003120000217
+
+# Language:
+Bardi
+
+#ISO Code:
+bcj
+
+# Consonant Inventory:
+p(p, b), t(t, d), ʈ(ʈ, ɖ), c(c, ɟ), k(k, g), 
+m, n, ɳ, ɲ, ŋ, l, ɭ, ʎ, r(r, ɾ, ɹ), ɻ, j, w
+
+# Vowel Inventory:
+i(i, ɪ), iː(iː, ɛː), a(a, ɑ, ə, æ), aː(aː, ɑː), o(o, ɒ), u(u, ʊ), uː 
+
+
+# Transcript:
+bɑːwɑ ǁ midəbɑʊ ǁ ɑɣɑl iːlɑ ɑgɑl gɑrjɑɭ cirə cɑwɑl ǁ
+midɑbɑːw jɪnɑ cɑwɑl ɑgɑl ǀ iːlɑ ǁ ɑgɑl gɑrcɑɭ ǁ
+ulɒn ǀ cubolɟubol ɪrɪn ǁ
+ɻoəlɪ ɪnɲɑ ǁ miːdəbɑwə agal iːlə ǀ bɑɖə ǀ bɑlɪŋɑn ǁ
+ɪnəmɪjɪn ǀ miːdəbɑwnɪm ɪnɑmɪjɪn bɑːgɪdi ǀ
+nɛːd ɪnəmɪjɪn  ǀ gɑɳɖɪ ǀ bɑɖə ǀ ruəl inɲə cubol
+inɟʊ ǁ bɪləboŋgon ǁ
+giɲiŋgɔn ǀ ɪmbɑɲiɟɪn ǁ ɪmbɑɲi ǀ cubolb ɪnco ǁ
+balab ɻuil ɪnɲa baɖ ar ɪndan ǁ 
+bʊlŋʊr ɲʊn ɪnɟal bɪləboŋ ǀ garcaɭ ɪnɪn gaɳdɪ ǀ bɪlɪlon 
+iɲɟarələ ɲæləb ǀlaɖaŋɑn injaliç | garɟaɭ | iːl agal
+midəbaw ɪŋarcarələ baɖə ǁ
+wir ɪŋarjarmɪn jubol ɪŋɪɾɪn ɲuno pɪləboŋgon ǁ
+puɲɟə ɪral kaɾəgʊn iːla | miːdəpawə agal karcaɭ ‖
+olal ɪŋargaɖi | bɑːw agal | iːla | buɣun garɟəɭnɪm
+arə oːlalənəɾ ‖
+daral ɪŋorbul | bəlab | aŋanaɖ | garɟaɭnim
+ɪnɟalɪɾ aŋanaŋar | dɔrɔlb ɪŋorobol ǁ
+ɲɑləbʊ | gɑɳɖ ɪnɪn bɪlɪlɔn gɑrɟɑɭ ǁ
+gɪɲɪŋɣɔn wɪr ɪɲɟɑrmɪn bilɪlɔ bɑɖɪ ɲʊn ɪnɪn
+bɔɖɔɣɔn | gɑɳɖɪ gɑrɟɑɭ inɟɑɹgɪɟɪr ǁ
+
+
+# Notes:
+The text is a telling of Mercer Meyer's 'The Frog Story'.
+All consonant allophones are discussed in the text.  The vowel allophones are Louise's
+guesses, based on vowel charts provided.  

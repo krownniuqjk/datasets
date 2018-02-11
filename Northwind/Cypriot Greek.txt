@@ -1,0 +1,34 @@
+# Reference:
+10.1017/S002510030000654X
+
+# Language:
+Cypriot Greek
+
+#ISO Code:
+
+
+# Consonant Inventory:
+p(p, pʰ, b, mb), t(t, tʰ, d, nd), k(k, c, g, ŋg), f(f, fː), v, θ, ð(ð, ðː), s(s, ʃ),
+z(z, ʒ), ʃ(ʃ, ʃː), ʒ, x(x, h, ʃ),
+ɣ(ɣ, ʝ), tʃ, m, n(n, ɲ, ŋ, nː), ɾ(ɾ, r), l(l, ʎ, ʎˑ, lː)
+
+# Vowel Inventory:
+i, ɛ, ɐ, ɔ, u
+
+
+# Transcript:
+ɔ vɔˈɾkɐ tʃɔ ˈiʎˑɔs ɛtsɐˈkɔnundɐn ǀ ʝɐ ˈpcɔs pu tus ˈθcɔ n ɔ ðinɐˈtɔtʰɛɾɔs ǀ
+ˈɔtɐn ɛˈpɛɾɐsɛ mbu mbrɔˈstɐ tus ˈɛnɐs tɐksiˈθcɔtis pu ɛfɔˈɾusɛ mɲɐ ˈŋgɐpʰɐn ǁ
+ˈɐmɐ tɔ ˈniðɐn ǀ ɔ vɔˈɾkɐ tʃɔ ˈiʎˑɔs ɛsiˈfːɔnisɐn ǀ
+ˈtʃinɔs pu tus ˈθcɔ pɔ nːɐ ˈkɐmi tɔ ndɐksiˈθcɔti nːɐ ˈfkɐli ti ˈŋgɐpʰɐ ndu
+ɛˈnːɐn ɔ ðinɐˈtɔtʰɛɾɔs ǁ
+ɔ vɔˈɾkɐs ˈɐɾcɛpsɛ nːɐ fiˈsɐ ðinɐˈtɐ ǀ ɐlːɐ ˈɔsɔ ˈmbcɔ pɔˈlːɐ ɛfiˈsusɛn ǀ
+ˈtɔsɔ ˈmbcɔ pɔˈlːɐ ǀ ɛʃːɛpɐˈzɔtɐn mɛ ti ˈŋgɐpʰɐ ndu ɔ tɐksiˈθcɔtis ǀ
+ˈɔspu ɔ vɔˈɾkɐs ɛkuˈɾɐstin ǀ tʃ ɛpɐˈɾɛtisɛ nːɐ fiˈsɐ ǁ
+ˈistɛrɐ ˈiɾtɛn i siˈɾɐ tu ˈiʎˑu ǀ pu  ˈɐnɐpsɛ ðinɐˈtɐ ǀ 
+tʃ ɛˈftis ɔ tɐksiˈθcɔtis ɛˈpiɾɔsɛn ǀ ˈtʃ ɛfkɐlɛn ti ˈŋgɐpʰɐ ndu ǁ
+ˈtʃ ɛtsi ɔ vɔɾˈkɐs ɛpɐɾɐˈɛxtin ǀ ˈɔti ɔ ˈiʎˑɔs ɛ ðːinɐˈtɔtʰɛɾɔs pɔ ˈtʃinɔn ǁ
+
+# Notes:
+Homorganic nasals are represented as allophones of the alveolar nasal /n/.
+All allomorphy discussed in paper.

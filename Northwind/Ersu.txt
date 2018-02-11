@@ -1,0 +1,40 @@
+﻿# Reference:
+10.1017/S0025100314000437
+
+# Language:
+Ersu
+
+#ISO Code:
+ers
+
+# Consonant Inventory:
+p, pʰ, b, Npʰ, Nb, t, tʰ, d, Ntʰ, Nd, k, kʰ, g, Nkʰ, Ng, t̪s̪, t̪s̪ʰ, d̪z̪, Nt̪s̪ʰ, Nd̪z̪, 
+t̻s̻, t̻s̻ʰ, d̻z̻, Nt̻s̻ʰ, Nd̻z̻, tɕ, tɕʰ, dʑ, Ntɕʰ, Ndʑ, ʈɽ, ʈɽʰ, ɖɽ, Nʈɽʰ, Nɖɽ, ɽ, 
+m, n, ŋ, f, v, s̪, z̪, s̻, z̻, ɕ, ʑ, x, w, j, l, ɬ  
+
+# Vowel Inventory:
+i(i, í, ì), ɛ(ɛ, ɛ́, ɛ̀), a(a, á, à), o(o, ó, ò), z̩(z̩, ź̩, z̩̀), v̩(v̩, v̩́, v̩̀), ɚ(ɚ, ɚ́, ɚ̀), a˞(a˞, a˞́, a˞̀)
+
+# Minimal pairs:
+/p~pʰ~b~m~w/ /f~v/ /t~tʰ~d~t̪s̪~t̪s̪ʰ~d̪z̪~n/ /s̪~z̪/ /t̻s̻~t̻s̻ʰ~d̻z̻~s̻~z̻/ /l~ɬ/
+/tɕ~tɕʰ~dʑ~ɕ~ʑ~j/ /ʈɽ~ʈɽʰ~ɖɽ~ɽ/ /k~kʰ~g~ŋ~x/ /b~Nb~pʰ~Npʰ/ /d̪z̪~Nd̪z̪/
+/t̪s̪ʰ~Nt̪s̪/ /ɖɽ~Nɖɽ/ /ʈɽʰ~Nʈɽʰ/
+
+# Minimal pair examples:
+/pɛ́~pʰɛ́~bɛ́~mɛ́~wá/ /fí~ví/ /tɛ́~tʰɛ́~dɛ́~t̪s̪ɛ́~t̪s̪ʰɛ́~d̪z̪ɛ́~nɛ́/ /s̪ɛ́~z̪ɛ́/ /t̻s̻ɛ́~t̻s̻ʰɛ́~d̻z̻ɛ́~s̻ɛ́~z̻ɛ́/
+/lá~ɬá/ /tɕó~tɕʰó~dʑó~ɕó~ʑó~jó/ /ʈɽɛ́~ʈɽʰɛ́~ɖɽɛ́~ɽɛ́/ /ká~kʰá~gá~ŋá~xá/
+/bó~Nbó~pʰó~Npʰó/ /d̪z̪à~Nd̪z̪à/ /t̪s̪ʰá~Nt̪s̪á/ /ɖɽò~Nɖɽò/ /tɛ́ ʈɽʰó~tɛ́ Nʈɽʰó/
+
+# Transcript:
+tɛ́ njó tɛ́ nɛ́ | mɛ́ɚ́ lá mát̪s̪ʰá
+
+
+# Notes:
+In the paper the alveolar affricates have a solid circle beneath them. This symbol 
+was unavailable to me, and I've used the open square (laminal diacritic) instead.
+Prenasalisation is contrastive, and minimal pairs provided. Despite this it was not 
+put in the phoneme inventory. Because it is contrastive, and frequently appears in e
+the transcript I have included prenasalised consonants in the phoneme inventory. N
+represents a homorganic nasal preceeding the consonant.
+Nasalised vowels are subphonemic - only found in loanwords, and 2 native words.
+Ersu has two tones - high <ó> and low <ò>. 

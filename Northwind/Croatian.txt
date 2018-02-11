@@ -1,0 +1,32 @@
+# Reference:
+10.1017/S002510030000520X
+
+# Language:
+Croatian
+
+#ISO Code:
+hrv
+
+# Consonant Inventory:
+p, b, t, d, k, g, ts(ts, dz), tʃ, dʒ, tɕ, dʑ, m(m, ɱ), n(n, ŋ), ɲ,
+ f(f, v), s, z, ʃ(ʃ, ɕ), ʒ(ʒ, ʑ), x(x, ɣ, h), r(r, r̩, ər, r̩̂, r̩̂ː), ʋ(ʋ, w), j, l ʎ
+
+# Vowel Inventory:
+i(ǐ, î), e(ě, ê), a(ǎ, â), o(ǒ, ô), u(ǔ, û), iː(iː, ǐː, îː), eː(eː, ěː, eː̂),
+ aː(aː, ǎː, âː), oː(oː, ǒː, ôː), uː(uː, ǔː, ûː), ie
+
+# Transcript:
+ǁsjêʋeːrniː lědeniː ʋjêtar isûːntsesuse prěpirali osʋǒjoj snǎːzi ǁ stôga
+ǒdlutʃeː daǒnome ôdɲiːx prǐpadne pôbjeda kǒjiː sʋǔːtʃe ǀ tʃôʋjeka
+pûːtnika ǁ ʋjêtar zǎpotʃe snâːʒno pǔːxati ǀ abǔduːtɕi dajetʃôʋjek
+tʃʋr̩̂ːsto dr̩̂ʒao ôdjetɕu ǀ nǎʋali ôːn jôʃ ʋîʃeː ôdjetɕeː ǀ dôkse ʋjêtar
+otstûdeni prǐtisnuːt ǀ naʋǔːtʃeː nǎsebe jôʃ ʋîʃeː ôdjetɕeː ǀ dôkse ʋjêtar
+neǔmoriː iprěpustiːga tâda sûːntsu ǁ ǒnoː upotʃěːtku zǎsija ǔmjereno ǁ
+kâdjetʃôʋjek skînuo suʋîːʃak ôdjetɕeː ǀ pǒʋiːsi ǒnoː jǒʃ jâtʃe ʒêgu ǀ
+dôksetʃôʋjek ǀ unemogǔːtɕnosti daǒli sǔntʃeʋoːj toplǐni nesʋǔːtʃeː ǀ
+iněpodʑeː nakǔːpaɲeː urijěːku tekǔtɕitsu ǁ prîtʃa pokǎzujeː
+dajetʃêːsto uspjěʃnijeː uʋjerǎːʋaːɲe ǀ něgoli nǎːsiːʎe ǁ
+
+# Notes:
+Pitch accents are marked on vowels, which are presented as allophones.  < ̌> represents
+the falling pitch accent, and < ̂> represents the rising pitch accent.

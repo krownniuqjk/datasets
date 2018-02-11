@@ -1,0 +1,30 @@
+# Reference:
+10.1017/S0025100310000083
+
+# Language:
+The Flemish-Brabant dialect of Orsmaal-Gussenhoven
+
+#ISO Code:
+
+
+# Consonant Inventory:
+p, b, t, d(d, d̥), k, m, n(n, nʲ, ŋ), ŋ, r(r, r̝, ɾ, ɹ̝, ɾɹ̝,), f, v(v, bv, v̥), s(s, s̬), z(z, dz, z̥), 
+ʃ, ʒ(ʒ, dʒ), x(x, ç), ɣ(ɣ, ʝ, ɣ̥), h, β̞, j, l, tʲ, kʲ
+
+# Vowel Inventory:
+ɪ, ʏ, ɛ(ɛ, ɛ̰), œ, ə, a(a, a̰), ɒ, ɔ, ʊ(ʊ, ʊ̝), iː, yː, eː, øː, ɛː, œː, aː(aː, a̰ː), ɒː, oː, uː, ei, øy, ɛɪ, 
+œʏ, əʊ, ɞʊ, aɪ, aʊ, uɪ, iə, eə, ɛə
+
+
+# Transcript:
+də ˈnœrdərβ̞ɪnt ʔɛn də zɔn ˈʔadən ən dɪsˈkøːsə ˈɛvə də vɾoːx | β̞i van ən tβ̞iː də
+ʔstɛɾəkstə β̞as | tʏn dʏɪ ʒyst ˈɛmant v̥œɾˈbɛː.kɔm bə nən ˈdɪkə ˈβ̞aɾəmə ja̰s a̰ːn
+z̥ə ˈspraːkə ɔf | da β̞ɛə də vərˈbɛːɣaŋəɾɹ̝ zaʊ dər̝ tœ ˈkrɛːɣə ˈzɛnə jas ˈaːtətrɛkə | 
+də ˈstɛɾəçstə z̥a̰ʊ z̥ɛ̰n ‖ d̥ə ˈnœrd̥ərβ̞ɪnts | bəˈɣɔn ɛt ˈalɣə maxt tə ˈblɔəz̥ə | ma u
+ˈhatər dat ər bleːs | dɛs tə ˈfɛldər̝ trɒks də v̥ərˈbɛːɣaŋə z̥ɛnə jas təʊ ‖ œtˈɛːndəlɪk
+| ɣ̥av də ˈnœrdərβ̞ɪnt ʊ̝pɸ ‖ dəˈnoː bəˈɣ̥ɔs̬ də zɔn ˈkraxtɪç tə ˈstroːlə | ɛn dəˈrɛk
+trɔk də vəˈbɛːɣaŋɐ ˈʒ̥ɛnə jas a̰ːts ‖ də ˈnœrdərβ̞ɪnt | mʊs ˈtəʊɣɛːvə dat də zɔn də
+ˈstɛ̰ɾəkstə β̞a̰s ||
+
+
+# Notes:
